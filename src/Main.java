@@ -1,5 +1,4 @@
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
@@ -65,5 +64,9 @@ class SportsCar extends Car {
      Admin will have adminId and assigned list of customers and sellers, also method to suspend seller or customer
 
 
-     Main class called 'Market'
+     Main class called 'Market' ==> [Customers, Sellers, Admins];
  */
+
+
+//customerA.buy(sellerId, productId);
+//adminA.suspend(id, "seller")

@@ -9,5 +9,7 @@ public class Shapes {
 
         mySquare.getArea();
         myRectangle.getArea();
+
+        System.out.println(Math.PI);
     }
 }

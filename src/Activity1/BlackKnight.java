@@ -66,6 +66,17 @@ public class BlackKnight {
 
         BlackKnight knight2 = new BlackKnight();
         System.out.println(knight2.toString());
+
+
+
+        ////////
+        // int, String, boolean
+        int myInteger = 4;
+
+
+        BlackKnight[] myBlackKnightArray;
+
+        myBlackKnightArray = new BlackKnight[7];
     }
 
 

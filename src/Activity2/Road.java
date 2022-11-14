@@ -46,7 +46,7 @@ public class Road {
     }
 
     public Road(){
-        this.from = null;
+        this.from = "";
         this.to = "";
         this.distance = 0;
     }

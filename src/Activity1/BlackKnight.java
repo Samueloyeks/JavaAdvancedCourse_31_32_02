@@ -1,5 +1,4 @@
 package Activity1;
-
 public class BlackKnight {
     private byte arms = 2;
     private byte legs = 2;
